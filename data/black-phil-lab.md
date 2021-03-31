@@ -5,10 +5,10 @@
 * **Status:**  Confirmed with WP6
 * **Type:** Specific
 * **Work Package**: WP6, WP3
-* **Research Coordinators:**  Ariana Betti
+* **Research Coordinators:**  Arianna Betti
 * **Coordinators for CLARIAH:**  (who is coordinating this use case for CLARIAH? If decided)
 * **Participating Institutes:** University of Amsterdam, INT
-* **End-users**: Ariana Betti
+* **End-users**: Arianna Betti
 * **Developers**: Martin Reynaert, Jan Niestadt, Koen Mertens, Jesse de Does
 * **Interest Groups**: Text
 * **Task IDs**: (zero or more task IDs if this is addressed in existing CLARIAH-PLUS tasks)
