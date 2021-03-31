@@ -15,10 +15,9 @@ Corpus-based history of ideas
 
 ## Description
 
-We present the use case of the research group of the VICI project eIdeas, led by philosopher Arianna Betti.
+The use case involved leveraging CLARIAH tools to support the research by the group of the VICI project eIdeas, led by philosopher Arianna Betti.
 
-
-The work of the philosophers centers around purpose-built corpora consisting of the collected works of a number of specific philosophers: Quine and Russell (English), Bolzano and Kant (German), Wolff (German and Latin), as well as corpora consisting of works from a particular time slot, possibly region, and dedicated to a particular topic (e.g. the 'Mathematical Method in Philosophy' in Prussia in the 18th Century: currently 98 works in German, 96 in (Neo-)Latin, by nearly as many different authors).
+The work centers around purpose-built corpora consisting of the collected works of a number of specific philosophers: Quine and Russell (English), Bolzano and Kant (German), Wolff (German and Latin), as well as corpora consisting of works from a particular time slot, possibly region, and dedicated to a particular topic (e.g. the 'Mathematical Method in Philosophy' in Prussia in the 18th Century: currently 98 works in German, 96 in (Neo-)Latin, by nearly as many different authors).
 
 The group requires advanced search, exploration and exploitation capabilities for these corpora and future corpora it envisages. 
 
