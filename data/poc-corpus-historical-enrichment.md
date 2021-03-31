@@ -19,7 +19,7 @@ Automatically tagged proof of concept diachronic corpus, consisting of a substan
 
 ### What is the research about?
 
-Concrete use cases still have to be defined; A possibility would be the historical development of the article in Dutch
+Concrete use cases still have to be defined; A possibility could be the historical development of the article in Dutch
 
 ### What problem is hindering the research?
 
