@@ -2,7 +2,7 @@
 
 ## Metadata
 
-* **Status:**  Propos
+* **Status:**  Confirmed with WP6
 * **Type:** Specific
 * **Work Package**: WP6, WP3
 * **Research Coordinators:**  Ariana Betti
