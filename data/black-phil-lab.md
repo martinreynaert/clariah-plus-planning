@@ -1,4 +1,4 @@
-# (Title of your use case)
+# (Corpus-based history of ideas)
 
 ## Metadata
 
