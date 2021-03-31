@@ -7,14 +7,13 @@
 * **Work Package**: WP6, WP3
 * **Research Coordinators:**  Ariana Betti
 * **Coordinators for CLARIAH:**  (who is coordinating this use case for CLARIAH? If decided)
-* **Participating Institutes:** 
+* **Participating Institutes:** University of Amsterdam, INT
 * **End-users**: Ariana Betti
 * **Developers**: Martin Reynaert, Jan Niestadt, Koen Mertens, Jesse de Does
 * **Interest Groups**: Text
 * **Task IDs**: (zero or more task IDs if this is addressed in existing CLARIAH-PLUS tasks)
 
 ## Description
-
 
 We present the use case of the research group of the VICI project eIdeas, led by philosopher Arianna Betti.
 
@@ -38,7 +37,10 @@ A corpus exploitation environment (autosearch) is used. To facilitate the resear
 
 * Although autosearch is not a digital edition tool, enhancements to the default FoLiA indexing and presentation of documents to enable (e.g.) linking to scans of pages and retrieving document context by page number would be paramount for verification purposes
 * Easier conversion tools from a simple text+metadata representation in csv to FoLiA
-* Retrieval of "semantically" similar documents/paragraphs/sentences 
+* Retrieval of "semantically" similar documents/paragraphs/sentences. This could be implemented either by 
+  * Enriching the data with similarity data before indexing
+  * Leveraging existing lucene scoring mechanisms
+  * Enable blacklab to take similarity obtained from a remote service or database into account while searching (Related to the WP3 task "Annotation of search results")
  
 ### What is needed to do the research?
 
