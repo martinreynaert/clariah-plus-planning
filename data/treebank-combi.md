@@ -33,6 +33,9 @@ We propose extensions to blacklab/blacklab-server/autosearch
 * upload of treebank data created by researchers into autosearch
 * exploitation of existing parallel corpora
 
+![Highlight of slots in corcondance](slots.png)
+![Grouping by slots (captures)](grouped.png)
+
 #### Data
 
 * Existing UD treebanks
