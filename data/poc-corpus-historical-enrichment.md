@@ -1,4 +1,4 @@
-# Historical enrichment Proof of concept corpus exploitation
+# Historical enrichment: Proof of concept corpus exploitation
 
 ## Metadata
 
