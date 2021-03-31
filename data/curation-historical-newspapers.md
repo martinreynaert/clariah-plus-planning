@@ -6,16 +6,16 @@
 * **Type:** Specific/Generic (is this a specific use-case, with identifiable end-users, or a more generic use case?)
 * **Work Package**: WPx
 * **Research Coordinators:**:  Nicoline van der Sijs
-* **Coordinators for CLARIAH:** 
+* **Coordinators for CLARIAH:** Katrien Depuydt, Jesse de Does
 * **Participating Institutes:** INT
-* **End-users**: 
-* **Developers**: INT team consisting of ...
+* **End-users**: Historical linguists, other humanities researchers
+* **Developers**: INT team consisting of Mathieu Fannee, Henk van der Pol, Katrien Depuydt
 * **Interest Groups**: Text
 * **Task IDs**:  Wp3/Wp6 Workflow for Digitization and Conversion
 
 ## Description
 
-Develop a suitable workflow for Wp6 use case 2: digitization of historical newspapers 
+Develop a suitable workflow for Wp6 use case 2: digitization of historical newspapers (corpus curation part)
 
 ### What is the research about?
 
@@ -26,22 +26,17 @@ Develop a suitable workflow for Wp6 use case 2: digitization of historical newsp
 
 ### What is needed to do the research?
 
-* 
+* Curation environment (based on Lex'it platform)
 
 #### Data
 
-* Set of yet-to-be transcribed KB historical newspaper data
+* KB 17th century newspaper corpus
 
 #### Tools
 
-(if known, describe what tools or functionalities you need to work with the data and do the research. Take the different stadia of the research into account, such as exploration phase, distant reading, close reading, annotating data, publishing, etc. Be as specific as possible)
-
-* Transkribus
-* Calamari OCR (https://github.com/Calamari-OCR/calamari)
-* PyLaia
-* Tesseract
-* Ocropy
-* ....
+* Lex'it
+* Conversion database -> XML
+* Blacklab
 
 ### What software and services are involved?
 
@@ -49,9 +44,6 @@ Develop a suitable workflow for Wp6 use case 2: digitization of historical newsp
 
 ### How to evaluate this?
 
-* By OCR accuracy of text recognition tools
-* By efficiency in terms of labor of the envisaged workflow
-* By usability of resulting corpus for research
 
 ## References
 
