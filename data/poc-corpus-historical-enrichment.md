@@ -8,7 +8,7 @@
 * **Research Coordinators:** Katrien Depuydt
 * **Coordinators for CLARIAH:**  (who is coordinating this use case for CLARIAH? If decided)
 * **Participating Institutes:** (what institutes are participating in handling this use case?)
-* **End-users**: User group for historical enrichment (rof. dr. L.C.J. Barbiers, prof. dr. K.H. van Dalen-Oskam, prof. dr. J.M. van Koppen, dr. M. Rem en prof. dr. N. van der Sijs,  dr. G. Bouma, prof. dr. A. Breitbarth, dr. E. Coussé, prof. dr. F. Van Eynde, prof. dr. A.M.S. van Kemenade, dr. M. Kestemont, drs. M. van der Meulen, dr. G.J. Postma, prof. dr. P.Th. van Reenen, dr. G.J. Rutten, T. Struik MA, dr. F. Van de Velde, M. de Vos MPhil, prof. dr. R. Vosters en dr. C. De Wulf.); any historical linguist interested in Dutch
+* **End-users**: User group for historical enrichment (Prof. dr. L.C.J. Barbiers, prof. dr. K.H. van Dalen-Oskam, prof. dr. J.M. van Koppen, dr. M. Rem en prof. dr. N. van der Sijs,  dr. G. Bouma, prof. dr. A. Breitbarth, dr. E. Coussé, prof. dr. F. Van Eynde, prof. dr. A.M.S. van Kemenade, dr. M. Kestemont, drs. M. van der Meulen, dr. G.J. Postma, prof. dr. P.Th. van Reenen, dr. G.J. Rutten, T. Struik MA, dr. F. Van de Velde, M. de Vos MPhil, prof. dr. R. Vosters en dr. C. De Wulf.); any historical linguist interested in Dutch
 * **Developers**: INT
 * **Interest Groups**: IG Text
 * **Task IDs**: Wp3/Wp6: Improved Infrastructure for Historical Dutch
