@@ -5,10 +5,10 @@
 * **Status:**  Proposed
 * **Type:** Specific
 * **Work Package**: WP3
-* **Research Coordinators:**  INT Lexicographers
+* **Research Coordinators:**  INT Lexicographers; ELEXIS project members
 * **Coordinators for CLARIAH:**  Jesse de Does, Vincent Vandeghinste
 * **Participating Institutes:** INT
-* **End-users**: INT Lexicographers; Lut Colman, Carole Tiberius
+* **End-users**: INT Lexicographers; Lut Colman, Carole Tiberius; ELEXIS community
 * **Developers**: (Who is involved in implementing this use-case (if any)? Try to mention name, institute, role/responsibility)
 * **Interest Groups**: (a list of CLARIAH interest groups, such as Text and DevOps, for which this use case may be relevant. See the list of IG's at: https://github.com/clariah/ig/.
 * **Task IDs**: Wp3 search engine extensions: parallel corpora; treebanks
@@ -32,6 +32,10 @@ We propose extensions to blacklab/blacklab-server/autosearch
 * extraction of relevant statistics by grouping on the relevant slots in the queries
 * upload of treebank data created by researchers into autosearch
 * exploitation of existing parallel corpora
+
+
+e.g.
+Query something like `v:[lemma="praten"] → (n:[pos="NOUN"] → p:[pos="ADP"])`
 
 ![Highlight of slots in corcondance](slots.png)
 ![Grouping by slots (captures)](grouped.png)
